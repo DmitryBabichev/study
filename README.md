@@ -5,12 +5,12 @@ My educational projects
 ### Задание 1. Простейшие алгоритмы.
 Описание [тут](http://coursera.cs.princeton.edu/algs4/assignments/percolation.html).  
 Реализация, прошедшая тестирование [тут](https://github.com/DmitryBabichev/study/tree/master/Algorithms_I/task_1).
-### Задание 2. Простые структуры данных. Стеки и очередь.
+### Задание 2. Простые структуры данных. Стек и очередь.
 Описание [тут](http://coursera.cs.princeton.edu/algs4/assignments/queues.html).  
 Реализация, прошедшая тестирование [тут](https://github.com/DmitryBabichev/study/tree/master/Algorithms_I/task_2).
 ## BMML
-Курс Байсовский методов машинного обучения, читавшийся студентам ВМК МГУ в 2017 году.
-Лабораторные работы представляют собой тетрадки с заданием и местом дле реализации решения.
+Курс Байсовских методов машинного обучения, читавшийся студентам ВМК МГУ в 2017 году.
+Лабораторные работы представляют собой тетрадки с заданием и местом для реализации решения.
 Практические включают в себя отчет в pdf и модуль с решением на Python.  
 [Лабораторная 1](https://github.com/DmitryBabichev/study/tree/master/BMML/lab_1)  
 [Лабораторная 2](https://github.com/DmitryBabichev/study/tree/master/BMML/lab_2)  
