@@ -1,15 +1,15 @@
 # study
 My educational projects
----
+------
 ## Algorithm 1
 Это курс на coursera от Принстонского университета по алгоритмам и структурам данных в двух частях.
 ### Задание 1. Простейшие алгоритмы.
-Описание [тут](http://coursera.cs.princeton.edu/algs4/assignments/percolation.html).\\
+Описание [тут](http://coursera.cs.princeton.edu/algs4/assignments/percolation.html).  
 Реализация, прошедшая тестирование [тут](https://github.com/DmitryBabichev/study/tree/master/Algorithms_I/task_1).
 ### Задание 2. Простые структуры данных. Стеки и очередь.
-Описание [тут](http://coursera.cs.princeton.edu/algs4/assignments/queues.html).\\
+Описание [тут](http://coursera.cs.princeton.edu/algs4/assignments/queues.html).  
 Реализация, прошедшая тестирование [тут](https://github.com/DmitryBabichev/study/tree/master/Algorithms_I/task_2).
----
+------
 ## BMML
 Курс Байсовский методов машинного обучения, читавшийся студентам ВМК МГУ в 2017 году.
 Лабораторные работы представляют собой тетрадки с заданием и местом дле реализации решения.
