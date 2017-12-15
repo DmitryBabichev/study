@@ -8,6 +8,9 @@ My educational projects
 ### Задание 2. Простые структуры данных. Стек и очередь.
 Описание [тут](http://coursera.cs.princeton.edu/algs4/assignments/queues.html).  
 Реализация, прошедшая тестирование [тут](https://github.com/DmitryBabichev/study/tree/master/Algorithms_I/task_2).
+### Задание 3. Сортировки. Сортировка слияниями. Быстрая сортировка.
+Описание [тут](http://coursera.cs.princeton.edu/algs4/assignments/collinear.html).
+РеализацияЮ прошедшая тестирование [тут](https://github.com/DmitryBabichev/study/tree/master/Algorithms_I/task_3).
 ## BMML
 Курс Байсовских методов машинного обучения, читавшийся студентам ВМК МГУ в 2017 году.
 Лабораторные работы представляют собой тетрадки с заданием и местом для реализации решения.
