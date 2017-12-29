@@ -1,4 +1,4 @@
-# study
+﻿# study
 My educational projects
 ## Algorithm 1
 Это курс на coursera от Принстонского университета по алгоритмам и структурам данных в двух частях.
@@ -11,6 +11,9 @@ My educational projects
 ### Задание 3. Сортировки. Сортировка слияниями. Быстрая сортировка.
 Описание [тут](http://coursera.cs.princeton.edu/algs4/assignments/collinear.html).  
 Реализация, прошедшая тестирование [тут](https://github.com/DmitryBabichev/study/tree/master/Algorithms_I/task_3).
+### Задание 4. Очередь с приоритетом. Бинарная куча. 8 Puzzle problem.
+Описание [тут](http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html).  
+Реализация, прошедшая тестирование [тут](https://github.com/DmitryBabichev/study/tree/master/Algorithms_I/task_4).
 ## BMML
 Курс Байсовских методов машинного обучения, читавшийся студентам ВМК МГУ в 2017 году.
 Лабораторные работы представляют собой тетрадки с заданием и местом для реализации решения.
