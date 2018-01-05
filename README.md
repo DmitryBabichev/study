@@ -14,6 +14,9 @@ My educational projects
 ### Задание 4. Очередь с приоритетом. Бинарная куча. 8 Puzzle problem.
 Описание [тут](http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html).  
 Реализация, прошедшая тестирование [тут](https://github.com/DmitryBabichev/study/tree/master/Algorithms_I/task_4).
+### Задание 5. Деревья и их геометрическое приложение. Kd-tree.
+Описание [тут](http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html).  
+Сам не реализовал, разобрал решение, предоставленное [тут](https://github.com/dychen/algs4/blob/master/kdtree/KdTree.java).
 ## BMML
 Курс Байсовских методов машинного обучения, читавшийся студентам ВМК МГУ в 2017 году.
 Лабораторные работы представляют собой тетрадки с заданием и местом для реализации решения.
